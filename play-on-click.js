@@ -1,5 +1,5 @@
 AFRAME.registerComponent("play-on-click", {
- //Add code here
+
   schema: {
     isPlaying: {
         type: "boolean", default: false
